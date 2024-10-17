@@ -1,0 +1,16 @@
+C:\Users\SOFRIN\source\repos\10.2\10.2\bin\Debug\net8.0-windows\10.2.exe
+C:\Users\SOFRIN\source\repos\10.2\10.2\bin\Debug\net8.0-windows\10.2.deps.json
+C:\Users\SOFRIN\source\repos\10.2\10.2\bin\Debug\net8.0-windows\10.2.runtimeconfig.json
+C:\Users\SOFRIN\source\repos\10.2\10.2\bin\Debug\net8.0-windows\10.2.dll
+C:\Users\SOFRIN\source\repos\10.2\10.2\bin\Debug\net8.0-windows\10.2.pdb
+C:\Users\SOFRIN\source\repos\10.2\10.2\obj\Debug\net8.0-windows\_10._2.Form1.resources
+C:\Users\SOFRIN\source\repos\10.2\10.2\obj\Debug\net8.0-windows\10.2.csproj.GenerateResource.cache
+C:\Users\SOFRIN\source\repos\10.2\10.2\obj\Debug\net8.0-windows\10.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOFRIN\source\repos\10.2\10.2\obj\Debug\net8.0-windows\10.2.AssemblyInfoInputs.cache
+C:\Users\SOFRIN\source\repos\10.2\10.2\obj\Debug\net8.0-windows\10.2.AssemblyInfo.cs
+C:\Users\SOFRIN\source\repos\10.2\10.2\obj\Debug\net8.0-windows\10.2.csproj.CoreCompileInputs.cache
+C:\Users\SOFRIN\source\repos\10.2\10.2\obj\Debug\net8.0-windows\10.2.dll
+C:\Users\SOFRIN\source\repos\10.2\10.2\obj\Debug\net8.0-windows\refint\10.2.dll
+C:\Users\SOFRIN\source\repos\10.2\10.2\obj\Debug\net8.0-windows\10.2.pdb
+C:\Users\SOFRIN\source\repos\10.2\10.2\obj\Debug\net8.0-windows\10.2.genruntimeconfig.cache
+C:\Users\SOFRIN\source\repos\10.2\10.2\obj\Debug\net8.0-windows\ref\10.2.dll
